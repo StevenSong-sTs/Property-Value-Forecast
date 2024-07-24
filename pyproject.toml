@@ -15,6 +15,10 @@ ipykernel = "^6.29.5"
 python-dotenv = "^1.0.1"
 notebook = "^7.2.1"
 xlrd = "^2.0.1"
+tqdm = "^4.66.4"
+pyperclip = "^1.9.0"
+pyspark = "^3.5.1"
+setuptools = "^71.1.0"
 
 
 [build-system]

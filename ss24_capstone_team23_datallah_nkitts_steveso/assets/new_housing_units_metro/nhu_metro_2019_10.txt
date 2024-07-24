@@ -1,0 +1,403 @@
+Table 3u. New Privately Owned Housing Units Authorized
+          Unadjusted Units by Metropolitan Area
+ 
+          October   2019
+                                                                                          Num of
+                                                                                          Struc-
+                                                                                          tures
+                                                                                          With
+                                                                          3 & 4  5 Units  5 Units  Monthly Coverage 
+CSA CBSA  Name                                   Total   1 Unit  2 Units  Units  or more  or more  Percent*
+
+999 10180 Abilene, TX                              29      29       0       0       0       0      92
+184 10420 Akron, OH                                50      50       0       0       0       0      67
+999 10500 Albany, GA                               14      14       0       0       0       0      78
+440 10540 Albany-Lebanon, OR                       51      46       0       0       5       1      78
+104 10580 Albany-Schenectady-Troy, NY             273     111       4      14     144      10     100
+106 10740 Albuquerque, NM                         308     195       0       3     110       2     100
+999 10780 Alexandria, LA                           20      20       0       0       0       0      67
+999 10900 Allentown-Bethlehem-Easton, PA-NJ        50      40       4       0       6       1      34
+107 11020 Altoona, PA                               0       0       0       0       0       0      16
+108 11100 Amarillo, TX                             63      63       0       0       0       0      87
+218 11180 Ames, IA                                  8       8       0       0       0       0      64
+999 11260 Anchorage, AK                           100      79       0       4      17       2     100
+220 11460 Ann Arbor, MI                            28      17       0       6       5       1      63
+999 11500 Anniston-Oxford, AL                       7       7       0       0       0       0      83
+118 11540 Appleton, WI                             73      40       0       0      33       1      49
+120 11700 Asheville, NC                           214     188       0       0      26       3      89
+122 12020 Athens-Clarke County, GA                540     153      36       8     343      44      93
+122 12060 Atlanta-Sandy Springs-Alpharetta,
+  GA                                             3728    2242       4       0    1482      20     100
+428 12100 Atlantic City-Hammonton, NJ              88      40       0       0      48       2     100
+194 12220 Auburn-Opelika, AL                       96      86       0       0      10       2     100
+999 12260 Augusta-Richmond County, GA-SC          278     257       0       3      18       1     100
+999 12420 Austin-Round Rock-Georgetown, TX       3494    1512      52       0    1930      83     100
+999 12540 Bakersfield, CA                         155     130       4       3      18       2      67
+548 12580 Baltimore-Columbia-Towson, MD           543     371       0       0     172       2     100
+999 12620 Bangor, ME                               33      17      16       0       0       0      54
+148 12700 Barnstable Town, MA                      10      10       0       0       0       0       9
+999 12940 Baton Rouge, LA                         345     307       0       0      38       1     100
+310 12980 Battle Creek, MI                          0       0       0       0       0       0       4
+474 13020 Bay City, MI                              1       1       0       0       0       0      18
+999 13140 Beaumont-Port Arthur, TX                 79      77       2       0       0       0      41
+999 13220 Beckley, WV                               8       8       0       0       0       0     100
+999 13380 Bellingham, WA                          172      65       0       0     107       3      97
+140 13460 Bend, OR                                286     181       0       0     105       5     100
+999 13740 Billings, MT                             25      25       0       0       0       0      49
+999 13780 Binghamton, NY                            0       0       0       0       0       0       0
+142 13820 Birmingham-Hoover, AL                   264     242       4       0      18       2     100
+999 13900 Bismarck, ND                             50      38      12       0       0       0      94
+999 13980 Blacksburg-Christiansburg, VA             2       2       0       0       0       0      11
+145 14010 Bloomington, IL                          18       6       0       0      12       1      82
+144 14020 Bloomington, IN                         120      21       2       0      97       3     100
+146 14100 Bloomsburg-Berwick, PA                   15      10       0       0       5       1     100
+147 14260 Boise City, ID                         1066     637      10      12     407      14     100
+148 14460 Boston-Cambridge-Newton, MA-NH         1064     398      64      32     570      33     100
+216 14500 Boulder, CO                              52      52       0       0       0       0      97
+150 14540 Bowling Green, KY                        54      54       0       0       0       0      99
+500 14740 Bremerton-Silverdale-Port Orchard, WA
+                                                   90      70       2       0      18       3     100
+408 14860 Bridgeport-Stamford-Norwalk, CT         912      44       2       0     866       8     100
+154 15180 Brownsville-Harlingen, TX                84      84       0       0       0       0      66
+999 15260 Brunswick, GA                            45      45       0       0       0       0      94
+160 15380 Buffalo-Cheektowaga, NY                 149      93       0       3      53       4     100
+268 15500 Burlington, NC                           45      45       0       0       0       0      56
+162 15540 Burlington-South Burlington, VT          74      24       4       7      39       3      66
+548 15680 California-Lexington Park, MD            78      78       0       0       0       0     100
+184 15940 Canton-Massillon, OH                     45      37       0       3       5       1      88
+163 15980 Cape Coral-Fort Myers, FL               757     628      40      35      54       3     100
+164 16020 Cape Girardeau, MO-IL                     0       0       0       0       0       0       0
+456 16180 Carson City, NV                          29      15       0       0      14       1     100
+999 16220 Casper, WY                               20      18       2       0       0       0     100
+168 16300 Cedar Rapids, IA                         53      39      14       0       0       0      79
+548 16540 Chambersburg-Waynesboro, PA              34      29       0       0       5       1     100
+999 16580 Champaign-Urbana, IL                    258      15       0       0     243       2      76
+170 16620 Charleston, WV                           16      16       0       0       0       0      74
+999 16700 Charleston-North Charleston, SC         551     375       0       4     172       7     100
+172 16740 Charlotte-Concord-Gastonia, NC-SC      2162    1444       4       0     714       9      95
+999 16820 Charlottesville, VA                     113      62       0       0      51       2      80
+174 16860 Chattanooga, TN-GA                      161     130      10       3      18       1      85
+999 16940 Cheyenne, WY                             41      33       0       8       0       0     100
+176 16980 Chicago-Naperville-Elgin, IL-IN-WI     1308     780      74      78     376      17     100
+999 17020 Chico, CA                                19      19       0       0       0       0      65
+178 17140 Cincinnati, OH-KY-IN                    553     484       6       8      55       4     100
+999 17300 Clarksville, TN-KY                      230     152       4      12      62       4     100
+174 17420 Cleveland, TN                            45      39       6       0       0       0      61
+184 17460 Cleveland-Elyria, OH                    264     249       4       3       8       1      98
+518 17660 Coeur dAlene, ID                        181     125       0       3      53       2      91
+999 17780 College Station-Bryan, TX               119     117       2       0       0       0     100
+999 17820 Colorado Springs, CO                    396     396       0       0       0       0     100
+190 17860 Columbia, MO                             68      68       0       0       0       0     100
+192 17900 Columbia, SC                            408     397       6       0       5       1     100
+194 17980 Columbus, GA-AL                          81      61       0       4      16       2      98
+294 18020 Columbus, IN                             23      23       0       0       0       0     100
+198 18140 Columbus, OH                            478     365       4      47      62       7      98
+204 18580 Corpus Christi, TX                      100     100       0       0       0       0      69
+440 18700 Corvallis, OR                            10      10       0       0       0       0      35
+999 18880 Crestview-Fort Walton Beach-Destin, FL
+                                                  349     199       0       0     150       8     100
+999 19060 Cumberland, MD-WV                         5       5       0       0       0       0      55
+206 19100 Dallas-Fort Worth-Arlington, TX        6855    3112      58      24    3661      61     100
+999 19180 Danville, IL                              0       0       0       0       0       0       3
+380 19300 Daphne-Fairhope-Foley, AL               207     160       0       0      47       2      79
+209 19340 Davenport-Moline-Rock Island, IA-IL      30      30       0       0       0       0      57
+212 19430 Dayton-Kettering, OH                     95      95       0       0       0       0      84
+290 19460 Decatur, AL                               9       9       0       0       0       0      95
+999 19500 Decatur, IL                               7       7       0       0       0       0      59
+422 19660 Deltona-Daytona Beach-Ormond Beach,
+  FL                                              614     322      36       0     256       4      66
+216 19740 Denver-Aurora-Lakewood, CO             2302     839       0       7    1456      15     100
+218 19780 Des Moines-West Des Moines, IA         1010     450       2       0     558      10      98
+220 19820 Detroit-Warren-Dearborn, MI             821     550      14       6     251      13     100
+222 20020 Dothan, AL                               21      17       0       4       0       0      62
+428 20100 Dover, DE                               117      87       4       0      26       4     100
+999 20220 Dubuque, IA                              13      13       0       0       0       0      34
+999 20260 Duluth, MN-WI                            11      11       0       0       0       0      14
+450 20500 Durham-Chapel Hill, NC                  728     322       2       0     404      17     100
+408 20700 East Stroudsburg, PA                      8       8       0       0       0       0      65
+232 20740 Eau Claire, WI                           97      69      20       0       8       1      95
+999 20940 El Centro, CA                            19      19       0       0       0       0      74
+238 21340 El Paso, TX                             270     198      16       3      53       5     100
+350 21060 Elizabethtown-Fort Knox, KY              33      33       0       0       0       0     100
+515 21140 Elkhart-Goshen, IN                       19      19       0       0       0       0      74
+236 21300 Elmira, NY                                0       0       0       0       0       0       4
+999 21420 Enid, OK                                  2       2       0       0       0       0     100
+240 21500 Erie, PA                                  6       6       0       0       0       0      34
+999 21660 Eugene-Springfield, OR                   54      46       2       0       6       1      90
+999 21780 Evansville, IN-KY                        69      63       6       0       0       0      93
+999 21820 Fairbanks, AK                             0       0       0       0       0       0     100
+244 22020 Fargo, ND-MN                             95      95       0       0       0       0     100
+999 22140 Farmington, NM                            6       6       0       0       0       0     100
+246 22180 Fayetteville, NC                        124     124       0       0       0       0      96
+999 22220 Fayetteville-Springdale-Rogers,
+  AR-MO                                           437     389      14       0      34       2     100
+999 22380 Flagstaff, AZ                            89      48       6       0      35       1      92
+220 22420 Flint, MI                                32      29       0       3       0       0      65
+999 22500 Florence, SC                             44      39       0       0       5       1      81
+999 22520 Florence-Muscle Shoals, AL               17      17       0       0       0       0      85
+999 22540 Fond du Lac, WI                          21       8       0       0      13       1      63
+999 22660 Fort Collins, CO                        312     145       2      16     149      19     100
+999 22900 Fort Smith, AR-OK                        37      19      18       0       0       0      83
+258 23060 Fort Wayne, IN                          193     135       2       3      53       7     100
+260 23420 Fresno, CA                              356     168      48       4     136      20     100
+999 23460 Gadsden, AL                               5       5       0       0       0       0      39
+264 23540 Gainesville, FL                         159      68       0       0      91       1      75
+122 23580 Gainesville, GA                          65      65       0       0       0       0      84
+276 23900 Gettysburg, PA                           26      26       0       0       0       0     100
+104 24020 Glens Falls, NY                          22      22       0       0       0       0      93
+999 24220 Grand Forks, ND-MN                       10       8       2       0       0       0      67
+999 24260 Grand Island, NE                          3       3       0       0       0       0      58
+999 24300 Grand Junction, CO                       55      55       0       0       0       0     100
+266 24340 Grand Rapids-Kentwood, MI               515     188      10       0     317      10      67
+999 24500 Great Falls, MT                          20      20       0       0       0       0     100
+216 24540 Greeley, CO                             303     225       0      22      56       3      89
+267 24580 Green Bay, WI                            78      67       0       0      11       2      83
+268 24660 Greensboro-High Point, NC               309     167       0       0     142       6     100
+272 24780 Greenville, NC                           76      30      12       0      34       1      67
+273 24860 Greenville-Anderson, SC                 522     501      16       0       5       1      98
+999 25060 Gulfport-Biloxi, MS                     217     199       2       3      13       1      96
+548 25180 Hagerstown-Martinsburg, MD-WV           107     103       4       0       0       0      97
+406 25220 Hammond, LA                              65      65       0       0       0       0      63
+276 25420 Harrisburg-Carlisle, PA                 189     102       2       3      82       4     100
+277 25500 Harrisonburg, VA                         34      34       0       0       0       0     100
+278 25540 Hartford-East Hartford-Middletown, CT
+                                                  116      59       0       8      49       9     100
+279 25620 Hattiesburg, MS                           1       1       0       0       0       0      49
+999 25860 Hickory-Lenoir-Morganton, NC              8       1       0       0       7       1       5
+999 25940 Hilton Head Island-Bluffton, SC          69      69       0       0       0       0      32
+496 25980 Hinesville, GA                           24      24       0       0       0       0      62
+999 26140 Homosassa Springs, FL                    80      80       0       0       0       0      97
+284 26300 Hot Springs, AR                           9       9       0       0       0       0      99
+999 26380 Houma-Thibodaux, LA                      42      40       2       0       0       0      93
+288 26420 Houston-The Woodlands-Sugar Land,
+  TX                                             5581    3798      38       4    1741      48      99
+170 26580 Huntington-Ashland, WV-KY-OH             13      13       0       0       0       0      82
+290 26620 Huntsville, AL                          323     323       0       0       0       0     100
+292 26820 Idaho Falls, ID                         111     105       0       0       6       1     100
+294 26900 Indianapolis-Carmel-Anderson, IN        846     635      10       0     201       4      99
+168 26980 Iowa City, IA                            96      35       0       8      53       1      73
+296 27060 Ithaca, NY                               10       1       2       0       7       1      10
+999 27100 Jackson, MI                               2       2       0       0       0       0       6
+298 27140 Jackson, MS                              91      91       0       0       0       0      90
+297 27180 Jackson, TN                              17      17       0       0       0       0      39
+300 27260 Jacksonville, FL                       1034     898       8      11     117       6     100
+999 27340 Jacksonville, NC                        154     152       2       0       0       0     100
+357 27500 Janesville-Beloit, WI                    85      27       2       0      56       1      60
+304 27740 Johnson City, TN                         30      10       2       0      18       1      43
+306 27780 Johnstown, PA                             0       0       0       0       0       0       2
+308 27860 Jonesboro, AR                            82      52       8      11      11       2      86
+309 27900 Joplin, MO                               27      16       2       4       5       1      40
+999 27980 Kahului-Wailuku-Lahaina, HI              22      22       0       0       0       0     100
+310 28020 Kalamazoo-Portage, MI                     9       9       0       0       0       0      20
+176 28100 Kankakee, IL                              2       2       0       0       0       0      15
+312 28140 Kansas City, MO-KS                     1356     464      32      29     831      17     100
+313 28420 Kennewick-Richland, WA                  195     151       8       0      36       2     100
+999 28660 Killeen-Temple, TX                      229     213      16       0       0       0     100
+304 28700 Kingsport-Bristol, TN-VA                  1       1       0       0       0       0       3
+408 28740 Kingston, NY                             86       2       2       0      82      14      46
+315 28940 Knoxville, TN                           410     282       0       0     128       4      92
+316 29020 Kokomo, IN                               11      11       0       0       0       0      61
+999 29100 La Crosse-Onalaska, WI-MN                70      24       4       0      42       2      90
+318 29180 Lafayette, LA                           135     135       0       0       0       0      96
+320 29200 Lafayette-West Lafayette, IN             85      64      12       0       9       1      95
+324 29340 Lake Charles, LA                         79      73       6       0       0       0      87
+999 29420 Lake Havasu City-Kingman, AZ            152     134      18       0       0       0     100
+422 29460 Lakeland-Winter Haven, FL               891     603       4      24     260       7      91
+999 29540 Lancaster, PA                             8       8       0       0       0       0       8
+999 29620 Lansing-East Lansing, MI                 11       6       0       0       5       1      24
+999 29700 Laredo, TX                              137     102      10       4      21       3     100
+238 29740 Las Cruces, NM                           90      90       0       0       0       0     100
+332 29820 Las Vegas-Henderson-Paradise, NV       1183     803       2      44     334       4     100
+312 29940 Lawrence, KS                              7       7       0       0       0       0      87
+999 30020 Lawton, OK                                4       4       0       0       0       0      79
+276 30140 Lebanon, PA                              24      24       0       0       0       0      74
+999 30300 Lewiston, ID-WA                           0       0       0       0       0       0       2
+438 30340 Lewiston-Auburn, ME                       5       3       2       0       0       0      67
+336 30460 Lexington-Fayette, KY                   277     128       8       3     138       5     100
+338 30620 Lima, OH                                  0       0       0       0       0       0      15
+339 30700 Lincoln, NE                             165      97       2       0      66       2      93
+340 30780 Little Rock-North Little Rock-Conway,
+  AR                                              244     158       4       8      74       2      96
+999 30860 Logan, UT-ID                             37      13       0       0      24       3      23
+999 30980 Longview, TX                             18      18       0       0       0       0      71
+440 31020 Longview, WA                             20      20       0       0       0       0      69
+348 31080 Los Angeles-Long Beach-Anaheim, CA     2635     836     192      48    1559      49     100
+350 31140 Louisville-Jefferson County, KY-IN      529     293       4       0     232      10     100
+352 31180 Lubbock, TX                             145     142       0       3       0       0     100
+999 31340 Lynchburg, VA                            15      15       0       0       0       0      67
+356 31420 Macon-Bibb County, GA                    27      27       0       0       0       0      71
+260 31460 Madera, CA                               85      85       0       0       0       0      92
+357 31540 Madison, WI                             290     165      10       3     112       9      99
+148 31700 Manchester-Nashua, NH                    65      30       2       0      33       2      50
+999 31740 Manhattan, KS                            52      17       0       0      35       1      89
+359 31860 Mankato, MN                              19      19       0       0       0       0      70
+365 32580 McAllen-Edinburg-Mission, TX            594     296      82      72     144       5     100
+366 32780 Medford, OR                              51      49       2       0       0       0      79
+368 32820 Memphis, TN-MS-AR                       576     336       0       0     240       6     100
+488 32900 Merced, CA                               11      11       0       0       0       0      41
+370 33100 Miami-Fort Lauderdale-Pompano Beach,
+  FL                                             1669     657      34       4     974      16     100
+176 33140 Michigan City-La Porte, IN               14      14       0       0       0       0      90
+474 33220 Midland, MI                               1       1       0       0       0       0      47
+372 33260 Midland, TX                             173     173       0       0       0       0     100
+376 33340 Milwaukee-Waukesha, WI                  187     151      20       0      16       1     100
+378 33460 Minneapolis-St. Paul-Bloomington,
+  MN-WI                                          1968     923      16       0    1029      17      99
+999 33540 Missoula, MT                             38      32       2       4       0       0     100
+380 33660 Mobile, AL                               65      62       0       3       0       0      95
+488 33700 Modesto, CA                               1       1       0       0       0       0       6
+384 33740 Monroe, LA                               93      22       2       4      65      13      66
+220 33780 Monroe, MI                                1       1       0       0       0       0       3
+388 33860 Montgomery, AL                           59      59       0       0       0       0      98
+390 34060 Morgantown, WV                            0       0       0       0       0       0      96
+500 34580 Mount Vernon-Anacortes, WA               25      25       0       0       0       0      89
+294 34620 Muncie, IN                                1       1       0       0       0       0      54
+266 34740 Muskegon, MI                              2       2       0       0       0       0       7
+396 34820 Myrtle Beach-Conway-North Myrtle Beach,
+  SC-NC                                           641     616      10       0      15       2      86
+163 34940 Naples-Marco Island, FL                 346     304       2      20      20       3      95
+400 34980 Nashville-Davidson--Murfreesboro--Franklin,
+  TN                                             2709    1419       6       6    1278      43      94
+408 35300 New Haven-Milford, CT                    28      13       0       0      15       2      68
+406 35380 New Orleans-Metairie, LA                360     265      22       6      67       1      98
+408 35620 New York-Newark-Jersey City, NY-NJ-PA
+                                                 6042    1025     160     157    4700     204     100
+515 35660 Niles, MI                                 0       0       0       0       0       0       5
+412 35840 North Port-Sarasota-Bradenton, FL       978     589       2       3     384       9     100
+278 35980 Norwich-New London, CT                   13      13       0       0       0       0      27
+999 36100 Ocala, FL                               271     269       2       0       0       0     100
+428 36140 Ocean City, NJ                           77      59       8      10       0       0     100
+372 36220 Odessa, TX                               70      68       2       0       0       0     100
+482 36260 Ogden-Clearfield, UT                    318     226       0      24      68       8      92
+416 36420 Oklahoma City, OK                       579     521      58       0       0       0     100
+500 36500 Olympia-Lacey-Tumwater, WA              165      62       0       4      99       4      98
+420 36540 Omaha-Council Bluffs, NE-IA             255     251       4       0       0       0     100
+422 36740 Orlando-Kissimmee-Sanford, FL          2846    1408      42      32    1364      31     100
+118 36780 Oshkosh-Neenah, WI                       32      24       0       0       8       1      79
+999 36980 Owensboro, KY                            22      22       0       0       0       0     100
+348 37100 Oxnard-Thousand Oaks-Ventura, CA         24       9       2       0      13       2      62
+999 37340 Palm Bay-Melbourne-Titusville, FL       335     259       0       0      76       5      84
+999 37460 Panama City, FL                         115     115       0       0       0       0      46
+425 37620 Parkersburg-Vienna, WV                    6       6       0       0       0       0      82
+426 37860 Pensacola-Ferry Pass-Brent, FL          338     298      40       0       0       0     100
+999 37900 Peoria, IL                                9       4       0       0       5       1      35
+428 37980 Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+                                                  826     584      34      70     138      21     100
+429 38060 Phoenix-Mesa-Chandler, AZ              3062    2322      18      13     709      20     100
+340 38220 Pine Bluff, AR                            1       1       0       0       0       0      50
+430 38300 Pittsburgh, PA                          176      92       2      12      70       3      41
+999 38340 Pittsfield, MA                            0       0       0       0       0       0       0
+999 38540 Pocatello, ID                            21      21       0       0       0       0      95
+370 38940 Port St. Lucie, FL                      298     292       6       0       0       0      84
+438 38860 Portland-South Portland, ME             183     119       6       3      55       6      77
+440 38900 Portland-Vancouver-Hillsboro, OR-WA    2099     660      22       8    1409      34     100
+408 39100 Poughkeepsie-Newburgh-Middletown,
+  NY                                               84      20       2       4      58       4      52
+999 39150 Prescott Valley-Prescott, AZ            116     114       2       0       0       0      81
+148 39300 Providence-Warwick, RI-MA               164     147      12       0       5       1     100
+482 39340 Provo-Orem, UT                          578     465       0       7     106      13     100
+444 39380 Pueblo, CO                               49      49       0       0       0       0     100
+412 39460 Punta Gorda, FL                         198     194       4       0       0       0      92
+376 39540 Racine, WI                               12      12       0       0       0       0      84
+450 39580 Raleigh-Cary, NC                        977     908       2      25      42       7     100
+452 39660 Rapid City, SD                           76      29       2       0      45       3      89
+428 39740 Reading, PA                               7       7       0       0       0       0      11
+454 39820 Redding, CA                              25      25       0       0       0       0      34
+456 39900 Reno, NV                                423     201       2       0     220      10     100
+999 40060 Richmond, VA                            442     379      32      19      12       2     100
+348 40140 Riverside-San Bernardino-Ontario,
+  CA                                             1153    1040       2       8     103      11      97
+462 40340 Rochester, MN                            32      32       0       0       0       0      80
+464 40380 Rochester, NY                           223      86       2      10     125      10      97
+466 40420 Rockford, IL                             11      11       0       0       0       0      83
+122 40660 Rome, GA                                 20      20       0       0       0       0     100
+472 40900 Sacramento-Roseville-Folsom, CA        1399     789      22       4     584      12     100
+474 40980 Saginaw, MI                               2       2       0       0       0       0      21
+440 41420 Salem, OR                               117      63       0       0      54       5      68
+999 41500 Salinas, CA                               4       2       2       0       0       0      54
+480 41540 Salisbury, MD-DE                        306     278      16       7       5       1      95
+482 41620 Salt Lake City, UT                     1078     436      18       7     617      11     100
+999 41660 San Angelo, TX                           23      23       0       0       0       0     100
+484 41700 San Antonio-New Braunfels, TX          1046     984      40      12      10       2     100
+999 41740 San Diego-Chula Vista-Carlsbad, CA      635     310      10      26     289      14     100
+488 41860 San Francisco-Oakland-Berkeley, CA     1307     250      24      33    1000      17     100
+488 41940 San Jose-Sunnyvale-Santa Clara, CA      852     275       8       9     560      17     100
+999 42020 San Luis Obispo-Paso Robles, CA          13      13       0       0       0       0      51
+488 42100 Santa Cruz-Watsonville, CA               29      15       0       3      11       2      62
+106 42140 Santa Fe, NM                             73      25       0       0      48       4     100
+999 42200 Santa Maria-Santa Barbara, CA            22      22       0       0       0       0      37
+488 42220 Santa Rosa-Petaluma, CA                  97      97       0       0       0       0      97
+496 42340 Savannah, GA                            209     209       0       0       0       0     100
+999 42540 Scranton--Wilkes-Barre, PA                9       9       0       0       0       0      18
+500 42660 Seattle-Tacoma-Bellevue, WA            1950     787      62      73    1028      41     100
+370 42680 Sebastian-Vero Beach, FL                136     136       0       0       0       0      83
+999 43100 Sheboygan, WI                             2       2       0       0       0       0       4
+508 43340 Shreveport-Bossier City, LA              93      93       0       0       0       0     100
+999 43420 Sierra Vista-Douglas, AZ                 15      15       0       0       0       0      99
+999 43580 Sioux City, IA-NE-SD                     20      20       0       0       0       0      41
+999 43620 Sioux Falls, SD                         312     182       0       4     126       4      96
+515 43780 South Bend-Mishawaka, IN-MI              25      25       0       0       0       0      81
+273 43900 Spartanburg, SC                         201     201       0       0       0       0      99
+518 44060 Spokane-Spokane Valley, WA              223     187      16       0      20       3     100
+522 44100 Springfield, IL                          29       8       4       0      17       1      61
+999 44140 Springfield, MA                           6       3       0       3       0       0       7
+999 44180 Springfield, MO                         113      77       2       4      30       1      56
+212 44220 Springfield, OH                          13       7       0       0       6       1     100
+378 41060 St. Cloud, MN                             0       0       0       0       0       0       1
+999 41100 St. George, UT                          457     169       0       0     288      13      70
+312 41140 St. Joseph, MO-KS                         0       0       0       0       0       0       1
+476 41180 St. Louis, MO-IL                        548     498      22       7      21       2      99
+524 44300 State College, PA                        11      11       0       0       0       0      50
+277 44420 Staunton, VA                             15      15       0       0       0       0      70
+488 44700 Stockton, CA                            197     197       0       0       0       0      59
+999 44940 Sumter, SC                               31      31       0       0       0       0      86
+532 45060 Syracuse, NY                             25      25       0       0       0       0      63
+999 45220 Tallahassee, FL                         216      90       2       0     124       5      63
+999 45300 Tampa-St. Petersburg-Clearwater, FL    2481    1272      14      19    1176      16     100
+999 45460 Terre Haute, IN                           9       4       0       0       5       1      56
+999 45500 Texarkana, TX-AR                          2       2       0       0       0       0      18
+422 45540 The Villages, FL                        285     285       0       0       0       0     100
+534 45780 Toledo, OH                               94      88       0       0       6       1      82
+999 45820 Topeka, KS                               28      28       0       0       0       0      76
+408 45940 Trenton-Princeton, NJ                    57      17       0       6      34       4     100
+536 46060 Tucson, AZ                              389     300       2       0      87       3     100
+538 46140 Tulsa, OK                               393     361       2       8      22       2     100
+999 46220 Tuscaloosa, AL                          110      56       0       6      48       3      89
+999 46300 Twin Falls, ID                           31      29       2       0       0       0      80
+540 46340 Tyler, TX                                26      24       2       0       0       0      66
+999 46520 Urban Honolulu, HI                      525     117       0       0     408       1     100
+999 46540 Utica-Rome, NY                            0       0       0       0       0       0       4
+999 46660 Valdosta, GA                             95      93       2       0       0       0      84
+488 46700 Vallejo, CA                              68      68       0       0       0       0      62
+428 47220 Vineland-Bridgeton, NJ                    5       5       0       0       0       0     100
+545 47260 Virginia Beach-Norfolk-Newport News,
+  VA-NC                                           304     304       0       0       0       0      98
+999 47300 Visalia, CA                             148     140       4       4       0       0      98
+999 47380 Waco, TX                                 88      84       4       0       0       0      68
+313 47460 Walla Walla, WA                          15      15       0       0       0       0      81
+356 47580 Warner Robins, GA                        69      69       0       0       0       0      92
+548 47900 Washington-Arlington-Alexandria,
+  DC-VA-MD-WV                                    2265     913       6       0    1346      18      98
+999 47940 Waterloo-Cedar Falls, IA                  3       3       0       0       0       0      33
+999 48060 Watertown-Fort Drum, NY                  13      13       0       0       0       0      99
+554 48140 Wausau-Weston, WI                        18      16       2       0       0       0      56
+430 48260 Weirton-Steubenville, WV-OH               0       0       0       0       0       0       0
+999 48300 Wenatchee, WA                            78      69       0       4       5       1      84
+999 48540 Wheeling, WV-OH                           0       0       0       0       0       0      86
+999 48660 Wichita Falls, TX                         4       4       0       0       0       0       2
+556 48620 Wichita, KS                             134      85      34       0      15       1      70
+558 48700 Williamsport, PA                          0       0       0       0       0       0      31
+999 48900 Wilmington, NC                          182     118       2       3      59       2      74
+548 49020 Winchester, VA-WV                        66      58       0       8       0       0      83
+268 49180 Winston-Salem, NC                       232     199       0       0      33       1      79
+148 49340 Worcester, MA-CT                         13      13       0       0       0       0      13
+999 49420 Yakima, WA                               33      31       2       0       0       0      76
+276 49620 York-Hanover, PA                          9       7       2       0       0       0      15
+566 49660 Youngstown-Warren-Boardman, OH-PA        31      31       0       0       0       0      67
+999 49740 Yuma, AZ                                122     120       2       0       0       0      99
+ 
+* -  Monthly Coverage Percent: Not all building permit offices are in the monthly survey.
+     For offices that only report annually, no estimate is made of their monthly activity, so the 
+     monthly estimate of the metropolitan area total may be missing some data.  This column 
+     shows the percentage of the most current annual housing units authorized of those places in 
+     the monthly survey in this metropolitan area.

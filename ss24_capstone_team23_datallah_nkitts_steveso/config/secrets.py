@@ -1,1 +1,0 @@
-congress_api_key = 'dqKYxPXx9vAJ6KmKvQHF4ADpZjUmALQXlHLFnhds'

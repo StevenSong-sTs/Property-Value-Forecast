@@ -6,3 +6,7 @@ __pycache__/
 # Adjust the directory name if your virtual environment directory has a different name
 venv/
 env/
+
+# Ignore the data inside the temporary folder
+/temporary_files/*
+!/temporary_files/

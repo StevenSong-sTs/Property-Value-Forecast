@@ -10,4 +10,4 @@ env/
 
 # Ignore the data inside the temporary folder
 /temporary_files/*
-!/temporary_files/
+!.gitkeep

@@ -8,7 +8,9 @@
 ## Instructions for Running the Code
 This repository contains two primary components: **Data Processing** and **Modeling**.
 
-Since all data files are stored in the team's Google Drive, the most efficient way to access these files is through `Google Colab`, utilizing its mount the drive function.
+Due to the large size of the data files, storing them directly in GitHub would lead to long clone times. Therefore, the team has opted to store the data in our Google Drive, while all code is maintained in this GitHub repository.
+
+To efficiently access the raw data files, we recommend using [**Google Collab**](https://colab.research.google.com/), which allows you to mount your Google Drive and work directly with the data.
 
 Given this setup, the instructions for running the Data Processing code and the Modeling code differ slightly.
 
@@ -66,8 +68,24 @@ One the connection to G drive has been setup, the notebook are ready to run!
 
 
 ### 2. Running the Modeling code:
-#### Step1: Indentify the Operating System
+#### Step 1: Identify Your Operating System
+Different operating systems require different versions of the packages. Two separate requirements.txt files are provided. Please ensure you identify the operating system you are using.
 
-#### Step2: Use the Correct `requirement.txt` to install all the packages
+#### Step 2: Install the Required Packages Using the Correct requirements.txt File
+
+For macOS or Linux: Use requirements_mac_linux.txt.
+F
+or Windows: Use requirements_windows.txt.
+
+To install the required packages, run the following command in your terminal or command prompt:
+
+```bash
+pip install -r requirements_{YOUR OS}.txt
+```
+
+> **Note:** The team has developed this project using Python 3.11.9. Using a different Python version may result in compatibility issues or errors. It is recommended to use Python 3.11.9.
+> 
+> Using Python 3.11.9 is recommnded.
 
 #### Step3: Run the Code
+Once all the packages are installed, you can run the notebook in any IDE of your choice that supports Jupyter runtime.

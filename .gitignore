@@ -13,4 +13,4 @@ env/
 !.gitkeep
 
 # Ignore the RandomSearchResults
-ss24_capstone_team23_datallah_nkitts_steveso/LSTM/hyperparam_tuning
+src/LSTM/hyperparam_tuning

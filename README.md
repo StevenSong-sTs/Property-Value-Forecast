@@ -1,4 +1,4 @@
-# UMICH Capstion Project - Team 23: Temporal Titan
+# UMICH Capstone Project - Team 23: Temporal Titan
 
 ### Team Members:
  - Daniel Atallah

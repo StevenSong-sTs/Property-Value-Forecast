@@ -15,18 +15,21 @@ import os
 import json
 
 # accepts city name and does initial preprocessing
-def data_download(city_nm):
+def data_download(city_nm, features = None, quiet = True):
   # Download the Data from Google Drive to the temporary folder
   merged_data_file_id = '1o_EEumVnswul9MVsrdDwBch5rt7JTr0m'
   merged_data_url = f'https://drive.google.com/uc?id={merged_data_file_id}'
   merged_data_filepath = '../../temporary_files/merged.csv'
-  gdown.download(merged_data_url, merged_data_filepath, quiet=False)
+  gdown.download(merged_data_url, merged_data_filepath, quiet = quiet)
   # import data
   merged = pd.read_csv(merged_data_filepath)
   # grab unique cities
   cities = list(merged.City.unique())
   # check if city is one of viable options
   assert city_nm in cities, f'City is not in {cities}'
+  # if features are designated then filter columns
+  if features is not None:
+    merged = merged.loc[:, features]
   # filter to selected city and sort
   merged = merged[merged.City == city_nm]
   merged.Date = pd.to_datetime(merged.Date)
@@ -49,7 +52,7 @@ def action_space(merged):
   # apply conditions
   merged['change'] = merged.pct_chng.apply(conditions)
   # drop pct_chng and ZHVI so no data leakage
-  # merged.drop(['ZHVI', 'pct_chng'], axis = 1, inplace = True)
+  merged.drop(['pct_chng'], axis = 1, inplace = True)
   return merged
 
 # split on some arbitrary value and scale
@@ -119,7 +122,14 @@ class DQNAgent:
     # MSE loss function
     self.loss_fn = nn.MSELoss()
     # Adam optimization
-    self.optim = optim.Adam(self.dqn.parameters(), lr = lr)
+    # add regularization if exists
+    try: 
+      self.optim = optim.Adam(self.dqn.parameters(), lr = lr,
+                              weight_decay = self.dqn.l2_reg.item())
+      # self.lr_decay = ReduceLROnPlateau(self.optim, mode = 'min', factor = 0.6,
+      #                                   patience = 10, min_lr = 0.00001)
+    except: 
+      self.optim = optim.Adam(self.dqn.parameters(), lr = lr)
     self.gamma = gamma
     self.epsilon = eps
     self.epsilon_decay = eps_decay
@@ -127,9 +137,9 @@ class DQNAgent:
     self.batch_size = batch_size
     self.replay_memory_buffer = deque(maxlen = memory_size)
     if seed is None:
-        self.rng = np.random.default_rng()
+      self.rng = np.random.default_rng()
     else:
-        self.rng = np.random.default_rng(seed)
+      self.rng = np.random.default_rng(seed)
 
   def select_action(self, state):
     # epsilon greedy action selection
@@ -139,7 +149,7 @@ class DQNAgent:
       state = torch.from_numpy(state).float().unsqueeze(0)
       self.dqn.eval()
       with torch.no_grad():
-          q_values = self.dqn(state)
+        q_values = self.dqn(state)
       self.dqn.train()
       action = torch.argmax(q_values).item()
     return action
@@ -171,6 +181,10 @@ class DQNAgent:
     loss.backward()
     self.optim.step()
 
+    # if optimizer has lr decay then step
+    try: self.lr_decay.step(loss)
+    except: pass
+
   def add_to_replay_memory(self, state, action, reward, next_state, done):
     self.replay_memory_buffer.append((state, action, reward, next_state, done))
 
@@ -187,9 +201,10 @@ class DQNAgent:
     self.dqn_target.load_state_dict(self.dqn.state_dict())
 
 # define training looper
-def episode_loop(X, y, max_reward = 0, maxlen = 100, window_size = 7, seed = 0, num_layers = 1,
-                 hidden_dim = 24, lr = 0.001, gamma = 0.99, eps = 1, eps_decay = 0.995, 
-                 min_eps = 0.01, memory_size = 36, batch_size = 12, num_episodes = 500, q = QNetwork):
+def episode_loop(X, y, max_reward = 0, maxlen = 100, window_size = 3, seed = 0, num_layers = 2,
+                 hidden_dim = 50, lr = 0.001, gamma = 0.99, eps = 1, eps_decay = 0.995, 
+                 min_eps = 0.01, memory_size = 48, batch_size = 32, num_episodes = 100,
+                 QNetwork = QNetwork, loud = False):
   reward_queue = deque(maxlen = maxlen)
   all_rewards = []
   all_rewards_each_step = []
@@ -200,7 +215,8 @@ def episode_loop(X, y, max_reward = 0, maxlen = 100, window_size = 7, seed = 0, 
   input_dim = X.shape[1]
   output_dim = len(np.unique(y[~np.isnan(y)]))
   agent = DQNAgent(input_dim, output_dim, hidden_dim, window_size, lr, gamma, eps, 
-                   eps_decay, min_eps, memory_size, batch_size, num_layers, seed)
+                   eps_decay, min_eps, memory_size, batch_size, num_layers, seed,
+                   QNetwork)
   # iterate through episodes and train
   for i in range(num_episodes):
     state = env.reset()
@@ -217,16 +233,18 @@ def episode_loop(X, y, max_reward = 0, maxlen = 100, window_size = 7, seed = 0, 
     all_rewards.append(episodic_reward)
     all_rewards_each_step.append(episode_rewards)
     reward_queue.append(episodic_reward)
-    if (i + 1) % 10 == 0 and len(reward_queue) == 100 and (i + 1) % 10 == 0:
-      print(f'Training episode {i + 1}, reward: {episodic_reward}', end='')
-    elif (i + 1) % 10 == 0: 
-      print(f'Training episode {i + 1}, reward: {episodic_reward}')
-    if len(reward_queue) == 100:
-      avg_reward = sum(reward_queue) / 100
-      if (i + 1) % 10 == 0:
+    # print results if requested
+    if loud:
+      if (i + 1) % 10 == 0 and len(reward_queue) == 100 and (i + 1) % 10 == 0:
+        print(f'Training episode {i + 1}, reward: {episodic_reward}', end='')
+      elif (i + 1) % 10 == 0: 
+        print(f'Training episode {i + 1}, reward: {episodic_reward}')
+      if len(reward_queue) == 100:
+        avg_reward = sum(reward_queue) / 100
+        if (i + 1) % 10 == 0:
           print(f', moving average reward: {avg_reward}')
   # return variables for viz
-  return all_rewards, all_rewards_each_step, agent, window_size
+  return all_rewards, all_rewards_each_step, agent
 
 # save artifacts using naming conventions
 def artifact_save(prefix, city_nm, num_layers, dqn, all_rewards, 
@@ -242,13 +260,13 @@ def select_action_test(model, state):
   state = torch.from_numpy(np.squeeze(state)).float().unsqueeze(0)
   model.eval()
   with torch.no_grad():
-      q_values = model(state)
+    q_values = model(state)
   action = torch.argmax(q_values).item()
   return action
 
 # create test loop that uses test select action function
-def test_loop(test_X, test_y, loaded_model, window_size = 7):
-  env_test = TimeSeries(test_X, test_y, window_size = 7)
+def test_loop(test_X, test_y, loaded_model, window_size):
+  env_test = TimeSeries(test_X, test_y, window_size)
   state = env_test.reset()
   done = False
   total_reward = 0
@@ -257,15 +275,14 @@ def test_loop(test_X, test_y, loaded_model, window_size = 7):
   rewards = []
   # compute total reward
   while not done:
-      action = select_action_test(loaded_model, state)
-      next_state, reward, done = env_test.step(action)
-      total_reward += reward
-      state = next_state
-      print(f'Reward as step {i}: {reward}')
-      i += 1
-      rewards.append(reward)
-  print(f"Total reward on new data: {total_reward}")
-  return rewards, total_reward, window_size
+    action = select_action_test(loaded_model, state)
+    next_state, reward, done = env_test.step(action)
+    total_reward += reward
+    state = next_state
+    i += 1
+    rewards.append(reward)
+  steps = i
+  return rewards, total_reward, steps
 
 # create function that dumps test results to json
 def save_test_results(prefix, city_nm, num_layers, rewards,
@@ -285,6 +302,5 @@ def save_test_results(prefix, city_nm, num_layers, rewards,
     with open(file_loc, 'r') as f:
       cur_d = json.load(f)
     cur_d[key_nm] = d
-    print(cur_d)
     with open(file_loc, 'w') as f:
       f.write(json.dumps(cur_d))

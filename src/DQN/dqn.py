@@ -1,3 +1,7 @@
+##########################################################################
+### Deep Q-Learning code adapted from SIADS 644 HW3 (CartPole Problem) ###
+##########################################################################
+
  # import dependencies
 import numpy as np
 import pandas as pd

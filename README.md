@@ -16,7 +16,7 @@ Given this setup, the instructions for running the Data Processing code and the 
 
 ### 1. Running the Data Processing Code:
 #### Step1: Access Team's Google Drive
-Please visit the link below to access team's Google Drive. This folder is public and anyone with the link wil be able to read the content.
+Please visit the link below to access team's Google Drive. This folder is public and anyone with the link will be able to read the content.
 
 Link: https://drive.google.com/drive/folders/1yyb5Pu5pS4b7468yDXhn6lWfF0EHinlb?usp=sharing
 

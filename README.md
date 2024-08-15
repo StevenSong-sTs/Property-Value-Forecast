@@ -47,7 +47,7 @@ As we can see, all the files will appear in the scroll section below. Any code u
 #### Step5: Mount Drive to the Google Collab
 Open `Chicago-CrimeData-Processing.ipynb` as an exmaple. 
 
-1. Click the Folder Icon at the left side bar.
+1. Click the Folder icon at the left side bar.
 <img src="screen_shots/image-5.png" alt="alt text" width="600">
 
 2. Click `Mount Drive` button <br>
@@ -74,8 +74,10 @@ Different operating systems require different versions of the packages. Two sepa
 #### Step 2: Install the Required Packages Using the Correct requirements.txt File
 
 For macOS or Linux: Use requirements_mac_linux.txt.
-F
-or Windows: Use requirements_windows.txt.
+
+
+For Windows: Use requirements_windows.txt.
+
 
 To install the required packages, run the following command in your terminal or command prompt:
 

@@ -89,3 +89,24 @@ pip install -r requirements_{YOUR OS}.txt
 
 #### Step3: Run the Code
 Once all the packages are installed, you can run the notebook in any IDE of your choice that supports Jupyter runtime.
+
+
+## Data Access Statement
+The data used in this project are sourced from the US Census Bureau, Zillow Research, and other publicly available sources. All data are saved in the team's Google Drive and are accessible to the public.
+
+
+### Data Access:
+You can access the data by following this link: https://drive.google.com/drive/folders/1-gukRGTb-JM0GSajaEA2uuOqVh0ZZiY0?usp=sharing
+
+### Data Ownership and Licensing:
+- **US Census Bureau:** Data is available under public domain, with no restrictions on use or redistribution.
+- **Zillow Research:** Data is available under Zillow's data licensing terms, which must be adhered to for any use or redistribution.
+- **Yahoo Finance:** Data is subject to Yahoo's data usage and licensing terms.
+- **Bureau of Transportation Statistics:** Data is publicly available and may be subject to federal data usage guidelines.
+- **Department of Housing:** Data is publicly available and may be subject to federal data usage guidelines.
+- **Bureau of Labor Statistics:** Data is publicly available and may be used under federal data usage guidelines.
+- **National Oceanic and Atmospheric Administration (NOAA):** Data is publicly available under NOAA’s data policies.
+- **Congress API:** Data is provided under specific API usage terms which must be respected.
+
+### Disclaimer:
+By accessing and using the data provided, you agree to comply with the licensing terms of the respective data sources.

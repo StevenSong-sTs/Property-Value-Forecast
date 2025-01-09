@@ -1,6 +1,6 @@
 # UMICH Capstone Project - Team 23: Temporal Titan
 
-![Project Poster](assets/poster.JPG)
+![Project Poster](assets/poster.jpg)
 
 [Download Report (PDF)](assets/report.pdf) | [Download Poster (PDF)](assets/poster.pdf)
 

@@ -1,5 +1,9 @@
 # UMICH Capstone Project - Team 23: Temporal Titan
 
+![Project Poster](assets/poster.JPG)
+
+[Download Report (PDF)](assets/report.pdf) | [Download Poster (PDF)](assets/poster.pdf)
+
 ### Team Members:
  - Daniel Atallah
  - Nathan Kitts
